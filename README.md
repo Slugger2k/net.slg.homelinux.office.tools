@@ -4,7 +4,7 @@ Java Apache POI data export framework to xls/pdf
 MavenEclipseProject for dependency managemant
 
 
-Simply export Java collections into Excel .xml file or .pdf
+Simply export Java collections into Excel .xls file or .pdf
 
 See jUnit test for usage.
 
